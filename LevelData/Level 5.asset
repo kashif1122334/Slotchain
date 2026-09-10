@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1955a9b3e642e443d864a2c8ee4c0107, type: 3}
+  m_Name: Level 5
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelID: 1
+  levelName: Level 5
+  rows: 3
+  columns: 3
+  puzzlePieces:
+  - {fileID: 9068384102612155215, guid: 95f00dcd5287f4ba1beb1aa425f273a6, type: 3}
+  - {fileID: 5953354967662726126, guid: 770ec1f7409104320be88071841fcbbf, type: 3}
+  - {fileID: 2796254928796591441, guid: ec6942638916f42e5aecebf64a2a52d7, type: 3}
+  - {fileID: 5695966801820075470, guid: cacb9874768124ca4b669c603b815037, type: 3}
+  - {fileID: 5754612638257099049, guid: 9c6c3fe95851c4f808f58555655cae9a, type: 3}
+  - {fileID: 3688994683849773152, guid: f42c9ecb4faf64abaac44c57cb2355d4, type: 3}
+  - {fileID: 1373071607979550980, guid: 7eca5ee0b28e54a43b40ed6eea3bf72f, type: 3}
+  - {fileID: 5146113608961243972, guid: ded3e4b9e18c548e1ade8521500f9dba, type: 3}
+  - {fileID: 679595713122347596, guid: 9176bfa90c9fa47449a47450bc3afe72, type: 3}
